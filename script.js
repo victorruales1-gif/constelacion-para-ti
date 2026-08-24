@@ -13,126 +13,126 @@ const starData = [
   // 1
   {
     label: "Cuando me hiciste reír",
-    date: "Enero 2021",
+    date: "Mayo 2026",
     description: "Ahí supe que tenías algo especial.",
     image: "assets/images/recuerdos/recuerdo2.jpg",
   },
   // 2
   {
     label: "Las primeras conversaciones largas",
-    date: "Febrero 2021",
+    date: "Junio 2026",
     description: "Horas hablando y aún así no era suficiente.",
     image: "assets/images/recuerdos/recuerdo3.jpg",
   },
   // 3
   {
     label: "El inicio de algo bonito",
-    date: "Febrero 2021",
+    date: "Junio 2026",
     description: "Sin darnos cuenta, ya éramos importantes.",
     image: "assets/images/recuerdos/recuerdo4.jpg",
   },
   // 4
   {
-    label: "Nuestra primera cita",
-    date: "Febrero 2021",
-    description: "Los nervios, las miradas, todo valió la pena.",
+    label: "Nuestro primer encuentro",
+    date: "Junio 2026",
+    description: "Los nervios, las miradas, todo valió la pena... aunque a mi solo me querían para un ratico",
     image: "assets/images/recuerdos/recuerdo5.jpg",
   },
   // 5
   {
     label: "Ese día especial",
-    date: "Febrero 2021",
-    description: "El momento en que todo se sintió diferente.",
+    date: "",
+    description: ".",
     image: "assets/images/recuerdos/recuerdo6.jpg",
   },
   // 6
   {
     label: "Las primeras salidas",
-    date: "Marzo 2021",
-    description: "Cada momento contigo era único.",
+    date: "",
+    description: ".",
     image: "assets/images/recuerdos/recuerdo8.jpg",
   },
   // 7
   {
     label: "Los pequeños detalles",
-    date: "Abril 2021",
+    date: "Toda la vida",
     description: "Ahí entendí que el amor está en lo simple.",
     image: "assets/images/recuerdos/recuerdo9.jpg",
   },
   // 8
   {
     label: "Momentos inolvidables",
-    date: "Abril 2021",
+    date: "",
     description: "Cada día contigo sumaba algo hermoso.",
     image: "assets/images/recuerdos/recuerdo10.jpg",
   },
   // 9
   {
     label: "Nuestro primer viaje",
-    date: "Junio 2022",
+    date: "",
     description: "Descubriendo lugares… y más de nosotros.",
     image: "assets/images/recuerdos/recuerdo11.jpg",
   },
   // 10
   {
     label: "Ese abrazo especial",
-    date: "Junio 2022",
+    date: "",
     description: "Sentí que ahí era donde pertenecía.",
     image: "assets/images/recuerdos/recuerdo12.jpg",
   },
   // 11
   {
     label: "Las risas sin control",
-    date: "Julio 2022",
+    date: "",
     description: "Contigo todo es más divertido.",
     image: "assets/images/recuerdos/recuerdo13.jpg",
   },
   // 12
   {
     label: "Momentos simples",
-    date: "Julio 2022",
+    date: "",
     description: "Pero contigo, todo se siente grande.",
     image: "assets/images/recuerdos/recuerdo14.jpg",
   },
   // 13
   {
     label: "Miradas que dicen todo",
-    date: "Julio 2022",
+    date: "J",
     description: "A veces no hacen falta palabras.",
     image: "assets/images/recuerdos/recuerdo15.jpg",
   },
   // 14
   {
     label: "Días difíciles",
-    date: "2022",
+    date: "",
     description: "Pero siempre juntos, siempre fuertes.",
     image: "assets/images/recuerdos/recuerdo16.jpg",
   },
   // 15
   {
     label: "Apoyándonos",
-    date: "2022",
+    date: "",
     description: "Nunca soltándonos, pase lo que pase.",
     image: "assets/images/recuerdos/recuerdo17.jpg",
   },
   // 16
   {
     label: "Creciendo juntos",
-    date: "2022",
+    date: "",
     description: "Aprendiendo uno del otro cada día.",
     image: "assets/images/recuerdos/recuerdo18.jpg",
   },
   // 17
   {
     label: "Sueños compartidos",
-    date: "2023",
+    date: "",
     description: "Pensando en todo lo que vendrá.",
     image: "assets/images/recuerdos/recuerdo19.jpg",
   },
   // 18
   {
     label: "Nuestro camino",
-    date: "2023",
+    date: "",
     description: "Construyendo algo real y bonito.",
     image: "assets/images/recuerdos/recuerdo20.jpg",
   },
@@ -181,7 +181,7 @@ const starData = [
   // 25
   {
     label: "Un día cualquiera contigo",
-    date: "2023",
+    date: "2",
     description: "Incluso lo simple se vuelve especial si es contigo.",
     image: "assets/images/recuerdos/recuerdo25.jpg",
   },
