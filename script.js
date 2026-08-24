@@ -8,7 +8,7 @@ const starData = [
     label: "La primera vez que hablamos",
     date: "Mayo 2026",
     description: "Me asignaron una abogada para mi contratación y resultó ser la mujer más hermosa que había visto. Ese día no solo firmé un contrato... también me entregué sin darme cuenta. Fue la primera vez que hablamos, y desde entonces no he dejado de pensar en ti",
-    image: "assets/images/recuerdos/recuerdo1.jpg",
+    image: "images/recuerdos/recuerdo1.jpg",
   },
   // 1
   {
