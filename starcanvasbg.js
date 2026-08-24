@@ -5,7 +5,7 @@
   // ── Configuración ──────────────────────────────────────────────
   const CONFIG = {
     starCount: 1200, // cantidad de estrellas de fondo
-    shootingStarInterval: 800, // ms entre estrellas fugaces
+    shootingStarInterval: 1000, // ms entre estrellas fugaces
     twinkleSpeed: 10.4, // velocidad base del parpadeo
     nebulaOpacity: 0.13, // opacidad de las nubes nebulosas
   };
