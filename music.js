@@ -1,7 +1,7 @@
 const musicBtn = document.querySelector(".music-btn");
 const icon = musicBtn.querySelector("i");
 
-const audio = new Audio("assets/audio/music.mp3");
+const audio = new Audio("audio/music.mp3");
 audio.loop = true;
 
 let isPlaying = false;
